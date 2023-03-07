@@ -2,3 +2,4 @@
 (<i> 2109106063 </i> - Zahra Salsabila)
 
 <h3> SS Tampilan </h3>
+[Hasil Tampilan](SS Tampilan.pdf)
