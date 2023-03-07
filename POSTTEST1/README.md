@@ -2,4 +2,4 @@
 (<i> 2109106063 </i> - Zahra Salsabila)
 
 <h3> SS Tampilan </h3>
-[a link](https://github.com/zahrasalsabila12/ZahraSalabila_063/blob/main/POSTTEST1/SS%20TAMPILAN.pdf)
+🔗 https://github.com/zahrasalsabila12/ZahraSalabila_063/blob/main/POSTTEST1/SS%20TAMPILAN.pdf
